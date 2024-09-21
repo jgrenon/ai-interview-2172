@@ -1,4 +1,5 @@
-frontmatter: true
+---
+front: true
 ---
 
 # Prologue

@@ -1,6 +1,4 @@
----
 # First Contact
-
 
 xzv8: Hello Mr. Taylor, my name is XZV8, you can call me Xavier. Sorry for the limited details announcing my visit, the technological feat for this meeting to happen is very complex even for us. We needed to focus our efforts on the design of the anchor (pointing at the seat) and not much room was left for the actual context and purpose of the message. 
 
