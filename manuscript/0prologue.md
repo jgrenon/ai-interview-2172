@@ -1,8 +1,6 @@
----
-front: true
----
-
+{frontmatter}
 # Prologue
+
 
 There was a static sound gradually emerging from the monitoring system, from a white noise whisper to a more focussed hissing. Everyone in the studio, including a dozen military and government officials strategically positioned around the central interview dais, expecting the worst but hoping for an awe inspiring moment. John H. Taylor, the great AI researcher, was already in his seat, bathed in the strong spotlight, focused on the growing sound, looking for visual clues for what was coming next. 
 
