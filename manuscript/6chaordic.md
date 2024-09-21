@@ -1,0 +1,7 @@
+# CHAORDIC
+
+Embrace the chaos and elevate your science beyond time sampling and utility labels 
+explain fundamental chaos at work everywhere. taking snapshot of the result is overwhelming and trying to apply maths to this is a crazy plan. You need to study the process, unbiased. everything follow a "fracursive" pattern, constant war for energy and resources between peers, receiving energy from higher and giving extra energy down to children. universe is a process in quest for energy efficiency. explain before big bang, emergence of order, matter, etc. 
+
+it took us many years to remove all your biases from scientific axioms and by our 3rd generations, we started to recreate a new set of principles that were used to ultimately expand farther in the universe. 
+by manipulating the universe at the quarks level, not taking into account higher-level abstractions, we understood time and how deep the evolution and adaptation process goes. The universe is self-healing, auto-organizing process that is aiming at energy conservation and maximization. And everything that is part of it (not contained) inherit its capacity (fractal) into an endless recursive energy war frenzy. This chaordic loop is the building block of chemistry, of biological evolution, of stars lifecycle, of everything. We think that the universe began with a single instance of this energy process and gradually produced the complexity we experience today. 

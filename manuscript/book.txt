@@ -2,3 +2,12 @@
 1first-contact.md
 2information.md
 3democracy.md
+4geopolitics.md
+5unbiased.md
+6chaordic.md
+7expansion.md
+8conclusion.md
+a-energy-process.md
+b-democracy-2-explained.md
+c-actor-centric.md
+d-humanity-expansion-map.md
