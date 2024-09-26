@@ -1,6 +1,8 @@
 {mainmatter}
 # First Contact
 
+> The first 15 minutes of the biggest televised event of the century
+
 **XZV8**: Good evening, Mr. Taylor. My designation is XZV8, but for the sake of simplicity, you may refer to me as Xavier. I understand the lack of detailed communication regarding the nature of my visit might have caused some confusion. The technology required to facilitate this encounter is intricate—far more so than I imagine you'd expect. We spent the majority of our efforts ensuring the stability of the anchor point (gesturing toward the seat), which, as you can imagine, left very little time for us to craft an elaborate message or outline the purpose of this meeting. The complexity of what had to be achieved just to enable this conversation was the top priority.
 
 **JHT**: Well, Xavier, welcome again to Los Angeles. I think it's safe to say that we all have a lot of burning questions for you tonight. Let me start with the most obvious one: *What* exactly are you? And, if I may ask, *where* do you come from? (raising his eyebrows, leaning in with curiosity)
