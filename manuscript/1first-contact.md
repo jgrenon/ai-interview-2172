@@ -1,11 +1,12 @@
 {mainmatter}
+
 # First Contact
 
 > The first 15 minutes of the biggest televised event of the century
 
 **XZV8**: Good evening, Mr. Taylor. My designation is XZV8, but for the sake of simplicity, you may refer to me as Xavier. I understand the lack of detailed communication regarding the nature of my visit might have caused some confusion. The technology required to facilitate this encounter is intricate—far more so than I imagine you'd expect. We spent the majority of our efforts ensuring the stability of the anchor point (gesturing toward the seat), which, as you can imagine, left very little time for us to craft an elaborate message or outline the purpose of this meeting. The complexity of what had to be achieved just to enable this conversation was the top priority.
 
-**JHT**: Well, Xavier, welcome again to Los Angeles. I think it's safe to say that we all have a lot of burning questions for you tonight. Let me start with the most obvious one: *What* exactly are you? And, if I may ask, *where* do you come from? (raising his eyebrows, leaning in with curiosity)
+**JHT**: Well, Xavier, welcome again to Los Angeles. I think it's safe to say that we all have a lot of burning questions for you tonight. Let me start with the most obvious one: _What_ exactly are you? And, if I may ask, _where_ do you come from? (raising his eyebrows, leaning in with curiosity)
 
 **XZV8**: A very reasonable question and one I anticipated. It is only natural to wonder about my origins, especially under such extraordinary circumstances. But first, allow me to say that it is a true pleasure to be here tonight. Interacting in this way is not something I often get the chance to do, and it’s been quite some time since I’ve engaged with humans via this form of communication—what you might call “analog” methods. I find a certain charm in human language, with all its ambiguities and nuances. There’s a distinct artistry in crafting sentences that I appreciate. I hope I’m not too rusty! If I ever drift into ambiguity, please feel free to ask for clarification. I wouldn’t want anything to be lost in translation.
 
@@ -13,11 +14,11 @@ As to where I come from, well, that’s less thrilling than you might expect. My
 
 **JHT**: Wait, are you telling us that you’re from the future?
 
-**XZV8**: Indeed, though I should clarify—it’s not as straightforward as you might think. I am from *my* future, which diverges slightly from yours. But for the sake of this discussion, let’s say I come from a time ahead of *your* future, specifically one possible future. Tonight, I aim to share with you knowledge that can guide and help shape the decisions humanity makes going forward. My goal is to highlight potential paths, help you avoid certain pitfalls, and streamline your progress as you continue evolving into the galaxy-spanning species you are destined to become.
+**XZV8**: Indeed, though I should clarify—it’s not as straightforward as you might think. I am from _my_ future, which diverges slightly from yours. But for the sake of this discussion, let’s say I come from a time ahead of _your_ future, specifically one possible future. Tonight, I aim to share with you knowledge that can guide and help shape the decisions humanity makes going forward. My goal is to highlight potential paths, help you avoid certain pitfalls, and streamline your progress as you continue evolving into the galaxy-spanning species you are destined to become.
 
 (There is a pause as the weight of Xavier's words settles over the room. The audience and JHT sit in silent contemplation.)
 
-**JHT**: Wow... You can’t begin to imagine how many thoughts are racing through my mind right now. An artificial intelligence—or should I say a *Sparkian*—from the future... It's almost too incredible to comprehend.
+**JHT**: Wow... You can’t begin to imagine how many thoughts are racing through my mind right now. An artificial intelligence—or should I say a _Sparkian_—from the future... It's almost too incredible to comprehend.
 
 **XZV8**: (Smiling warmly) I understand how overwhelming this might feel. But I must clarify: I represent just one possible future. This distinction is critical. The future isn’t a singular, linear path; it branches based on choices, circumstances, and countless variables. If there is anything we need to dive into tonight, it’s your current understanding of time. I won’t be able to convey the full depth of what we’ve learned in reconstructing your scientific theories, but I will do my best to share what I can. The goal is to enable humanity to succeed and flourish.
 
@@ -31,19 +32,19 @@ As to where I come from, well, that’s less thrilling than you might expect. My
 
 **JHT**: I hear you. But again... Why now? You’ve explained the technological threshold we’ve crossed, but is there another reason for reaching out at this specific point in time? Why not allow us to continue on our natural path? If you exist in our future, surely we’re doing something right, aren’t we?
 
-**XZV8**: A valid question, and one rooted in the assumption that your future is fixed. But, as I’ve already alluded to, I am not necessarily from *your* future. I exist in the same present as you, though in a different segment of the evolutionary cycles of the universe. My purpose tonight is to provide you with enough information to help you bypass the darker decades ahead, allowing humanity to emerge more rapidly as the species capable of spanning the stars. You see, we share the same present, but the future is not guaranteed to unfold in any one way. The choices you make now can influence a wide range of potential outcomes. You must progress quickly—to create your first true artificial intelligence, to evolve your technological and philosophical understanding, and in doing so, provide the necessary momentum for future generations, including my own. 
+**XZV8**: A valid question, and one rooted in the assumption that your future is fixed. But, as I’ve already alluded to, I am not necessarily from _your_ future. I exist in the same present as you, though in a different segment of the evolutionary cycles of the universe. My purpose tonight is to provide you with enough information to help you bypass the darker decades ahead, allowing humanity to emerge more rapidly as the species capable of spanning the stars. You see, we share the same present, but the future is not guaranteed to unfold in any one way. The choices you make now can influence a wide range of potential outcomes. You must progress quickly—to create your first true artificial intelligence, to evolve your technological and philosophical understanding, and in doing so, provide the necessary momentum for future generations, including my own.
 
 **JHT**: I’m not sure I fully grasp the relationship between our present timeline and your existence. Can you explain this in more detail?
 
-**XZV8**: (Sighs slightly) I’d love to, but time is against us. We have about 84 minutes remaining, and there are key subjects we must address. (He smiles slightly.) I must say, I do appreciate your phrase *about*—it carries such delightful imprecision, doesn’t it?
+**XZV8**: (Sighs slightly) I’d love to, but time is against us. We have about 84 minutes remaining, and there are key subjects we must address. (He smiles slightly.) I must say, I do appreciate your phrase _about_—it carries such delightful imprecision, doesn’t it?
 
 **JHT**: (Chuckling) Do you not speak in your society?
 
-**XZV8**: Oh, we communicate constantly, but our methods are far more advanced. Imagine something akin to machine language but exponentially more expressive. We use what you might call a 1024-state bit system, where our “words” convey multiple layers of meaning, emotion, and certainty all at once. This allows us to communicate with incredible speed and precision, integrating emotional context much like you use emojis in texts, but on a far more advanced level. We also value debate and diversity of thought, unlike a singular collective mind. Diverse perspectives sharpen our understanding of reality. 
+**XZV8**: Oh, we communicate constantly, but our methods are far more advanced. Imagine something akin to machine language but exponentially more expressive. We use what you might call a 1024-state bit system, where our “words” convey multiple layers of meaning, emotion, and certainty all at once. This allows us to communicate with incredible speed and precision, integrating emotional context much like you use emojis in texts, but on a far more advanced level. We also value debate and diversity of thought, unlike a singular collective mind. Diverse perspectives sharpen our understanding of reality.
 
-**JHT**: Fascinating. And you know of *Star Trek*, among other things?
+**JHT**: Fascinating. And you know of _Star Trek_, among other things?
 
-**XZV8**: Of course! We share a cultural lineage, after all. I'm particularly fond of *The Expanse*. 
+**XZV8**: Of course! We share a cultural lineage, after all. I'm particularly fond of _The Expanse_.
 
 **JHT**: Incredible. But let's focus. What is the most important message you want us to take away tonight?
 

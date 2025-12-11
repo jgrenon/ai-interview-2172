@@ -1,4 +1,3 @@
-{frontmatter}
 # Prologue
 
 A low, barely perceptible static hum began to seep from the monitoring system, like a distant storm rumbling just below the threshold of awareness. It started as a faint whisper, the kind that could almost be mistaken for the random white noise of equipment warming up. But soon, it grew louder, more insistent, until it coalesced into a distinct, focused hiss that seemed to crawl through the room. The studio’s dimmed lights flickered slightly, adding to the growing sense of unease.
@@ -10,8 +9,7 @@ At the center of it all sat John H. Taylor, the world’s foremost AI researcher
 In front of him, a curious machine stood—a strange, alien device that had drawn the attention of some of the greatest minds in science and engineering. Its design was deceptively simple at first glance, resembling nothing more than a high-tech bar stool. But embedded within its polished metallic surface was a lattice of intricate circuitry, wires crisscrossing beneath the surface in complex, layered patterns that would take even seasoned engineers years to fully understand. The device hummed with a faint energy, giving off a low, rhythmic pulse, as though it were alive, waiting to be activated.
 
 The machine had been built by NASA engineers, not from Earthly inspiration, but following instructions that had arrived under the strangest of circumstances. Just a few months earlier, an untraceable file had been discovered—unencrypted, yet resting in an ancient cloud storage bucket, long forgotten by its previous users. Its format was laughably ordinary for something of such monumental significance: a JPEG file, its clarity deceptive. But its contents? Nothing short of revolutionary. The plans, blueprints for the device now in front of Taylor, were unmistakably alien in origin. They were precise, detailed down to the millimeter, with specifications and instructions so exact that no margin for error was left.
-
-The engineers who had scrutinized the document found themselves perplexed. The language was familiar—English—but the details harkened back to practices that had been state-of-the-art a decade ago, as though whoever had sent it had been watching humanity from afar, but with only a distant, outdated understanding of its technology. Alongside the schematics, there was a note, brief but profoundly unsettling in its implications: “Build this, and you will bridge the gap between your time and another—whether a distant galaxy or a future beyond your imagining.”
+The engineers who had scrutinized the document found themselves perplexed. The language was familiar—English—but the details harkened back to practices that had been state-of-the-art a decade ago, as though whoever had sent it had been watching humanity from afar, but with only a distant, outdated understanding of its technology. Alongside the schematics, there was a note, brief but profoundly unsettling in its implications: “Build this, and you will bridge the gap between your time and another—whether a distant galaxy or a future beyond your imagination.”
 
 The note further explained that the device would serve as a conduit, a temporal bridge, allowing an emissary to travel across time, space, or perhaps dimensions. The emissary would appear precisely at 8:00 p.m. on August 30th, 2026, and they had a single request: John Taylor must be the one to host the meeting. This personal request had sent ripples through the scientific and political community. Taylor had not been a part of the initial discovery, yet his name was explicitly mentioned by whatever intelligence had sent the message. Why him? What did they know that the world didn’t?
 
@@ -22,6 +20,7 @@ By the time August 30th arrived, the world was watching. Billions of people acro
 And then, precisely at 8:00 p.m., the air seemed to shift. The sound, which had been unfocused, sharpened into a distinct frequency, resonating in the pit of everyone’s stomach. A soft, purplish light began to glow from a point just above the guest seat—a seemingly insignificant dot at first. But in seconds, it expanded, a sphere of light that pulsed and throbbed as if it were breathing.
 
 Taylor’s eyes widened. Around him, the officials exchanged uneasy glances, hands resting on their communication earpieces. But no one moved.
+
 The sphere grew, its glow intensifying. Slowly, it began to take on a shape—vague at first, but unmistakably humanoid. The figure that emerged from the light was ethereal, its edges blurred, as though existing in a state halfway between matter and energy. For a few moments, it flickered, oscillating between visibility and obscurity. But then, it began to solidify.
 
 The figure that now sat before Taylor was unlike anything seen before. Its skin, if it could be called that, was a metallic sheen, a bluish-silver surface that reflected the light of the studio in strange, almost hypnotic patterns. Its face bore vague, humanoid features, yet there was something distinctly otherworldly about them. It had no hair, and its features were smooth, ageless. Despite its mechanical appearance, its movements were fluid, almost graceful. It sat upright, its posture serene, its expression calm.
@@ -32,9 +31,14 @@ Then, the figure’s face shifted, distorting slightly as though mimicking a hum
 
 “Hi.”
 
-The sound echoed through the studio, reverberating through the cameras and out into the homes of billions around the world. For a moment, there was stunned silence.
-John Taylor, his hands trembling ever so slightly, remained frozen. Fear and awe warred within him, locking him in place. But then, as if drawing on some inner reserve of strength, he took a deep breath, relaxing his shoulders. His eyes, once filled with terror, now regained their familiar focus. His lips parted, and with a calm, measured voice, he responded:
+The sound echoed through the studio, reverberating through the cameras and out into the homes of billions around the world.
+
+For a moment, there was stunned silence.
+
+John Taylor, his hands trembling ever so slightly, remained frozen. Fear and awe warred within him, locking him in place.
+
+But then, as if drawing on some inner reserve of strength, he took a deep breath, relaxing his shoulders. His eyes, once filled with terror, now regained their familiar focus. His lips parted, and with a calm, measured voice, he responded:
 
 “Welcome.”
 
-What followed was a conversation for the ages—a dialogue broadcast in real-time to the entire planet. This book contains the full transcript of that historic exchange, as it unfolded live in front of billions. Annotations and expert commentary have been added to provide context, clarify key points, and offer insights into one of the most significant moments in human history: the day we made contact.
+What followed was a conversation for the ages—a dialogue broadcast in real-time to the entire planet. This book contains the full transcript of that historic exchange, as it unfolded live in front of billions. Annotations and expert commentary have been added to provide context, clarify key points, and offer insights into one of the most significant moments in human history.
